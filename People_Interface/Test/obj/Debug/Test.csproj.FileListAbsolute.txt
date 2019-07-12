@@ -1,0 +1,6 @@
+D:\Работа\Level_Up\Home_work\People_Interface\Test\bin\Debug\Test.exe.config
+D:\Работа\Level_Up\Home_work\People_Interface\Test\bin\Debug\Test.exe
+D:\Работа\Level_Up\Home_work\People_Interface\Test\bin\Debug\Test.pdb
+D:\Работа\Level_Up\Home_work\People_Interface\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Работа\Level_Up\Home_work\People_Interface\Test\obj\Debug\Test.exe
+D:\Работа\Level_Up\Home_work\People_Interface\Test\obj\Debug\Test.pdb

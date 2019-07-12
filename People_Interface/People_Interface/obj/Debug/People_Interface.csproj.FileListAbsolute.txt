@@ -1,0 +1,6 @@
+D:\Работа\Level_Up\Home_work\People_Interface\People_Interface\bin\Debug\People_Interface.exe.config
+D:\Работа\Level_Up\Home_work\People_Interface\People_Interface\bin\Debug\People_Interface.exe
+D:\Работа\Level_Up\Home_work\People_Interface\People_Interface\bin\Debug\People_Interface.pdb
+D:\Работа\Level_Up\Home_work\People_Interface\People_Interface\obj\Debug\People_Interface.exe
+D:\Работа\Level_Up\Home_work\People_Interface\People_Interface\obj\Debug\People_Interface.pdb
+D:\Работа\Level_Up\Home_work\People_Interface\People_Interface\obj\Debug\People_Interface.csprojResolveAssemblyReference.cache
